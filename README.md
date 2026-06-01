@@ -60,7 +60,7 @@ Build-from-source steps are in **[docs/INSTALL.md](docs/INSTALL.md)**.
 
 ### Credits
 
-Fan translation project (~2 weeks of work). *Add your name(s)/handle(s) here.*
+Fan translation project (~2 weeks of work).
 
 ---
 
@@ -109,7 +109,7 @@ Passos de build estão em **[docs/INSTALL.md](docs/INSTALL.md)**.
 
 ### Créditos
 
-Projeto de tradução amador (~2 semanas de trabalho). *Adicione aqui seu(s) nome(s)/handle(s).*
+Projeto de tradução amador (~2 semanas de trabalho).
 
 ---
 
