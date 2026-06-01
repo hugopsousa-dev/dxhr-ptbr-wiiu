@@ -1,0 +1,43 @@
+# ─── NEVER commit game content (copyrighted) ───
+*.000
+*.001
+*.002
+*.003
+*.004
+*.005
+*.006
+*.007
+*.008
+*.009
+*.0[1-2][0-9]
+bigfile-wiiu.*
+bigfile*.*
+*.bigfile
+locals.bin
+locals.bin.*
+**/content/**/*.bin
+
+# Dumps / output artifacts
+output/
+dump/
+*_unpack/
+*.bak
+*.bak_*
+
+# Secrets
+.env
+*.env
+**/cache.jsonl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dxhr_venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
