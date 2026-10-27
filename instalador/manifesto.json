@@ -1,0 +1,24 @@
+{
+  "game": "Deus Ex: Human Revolution — Director’s Cut",
+  "region": "USA / NTSC-U",
+  "title_id": "000500001012BA00",
+  "release": "v1.1",
+  "mode": "files",
+  "space_bytes": 734003200,
+  "inputs": [
+    {
+      "label": "content/bigfile-wiiu.000",
+      "relative_path": "content/bigfile-wiiu.000",
+      "delta": "patches/dxhr-000.bps",
+      "destination": "wiiu/sdcafiine/000500001012BA00/PTBR/content/bigfile-wiiu.000"
+    },
+    {
+      "label": "content/bigfile-wiiu.024",
+      "relative_path": "content/bigfile-wiiu.024",
+      "delta": "patches/dxhr-024.bps",
+      "destination": "wiiu/sdcafiine/000500001012BA00/PTBR/content/bigfile-wiiu.024"
+    }
+  ],
+  "base_update": "Somente a revisão identificada pelos hashes deste pacote; outras revisões são recusadas.",
+  "runtime": "Aroma com SDCafiine instalado separadamente e ativado."
+}
