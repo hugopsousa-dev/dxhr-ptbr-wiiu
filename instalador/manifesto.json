@@ -2,7 +2,7 @@
   "game": "Deus Ex: Human Revolution — Director’s Cut",
   "region": "USA / NTSC-U",
   "title_id": "000500001012BA00",
-  "release": "v1.1",
+  "release": "v1.2",
   "mode": "files",
   "space_bytes": 734003200,
   "inputs": [
@@ -20,5 +20,9 @@
     }
   ],
   "base_update": "Somente a revisão identificada pelos hashes deste pacote; outras revisões são recusadas.",
-  "runtime": "Aroma com SDCafiine instalado separadamente e ativado."
+  "runtime": "Aroma com SDCafiine instalado separadamente e ativado.",
+  "patch_sha256": {
+    "patches/dxhr-024.bps": "9d7c238807e412743f21d9f579cdbd39a40db8b7a4655257d74746e3d2055653",
+    "patches/dxhr-000.bps": "723c6c51ed44e7c3d21f38db413e2fd1e6a3e5d67be7b2a4e451afe993ca8157"
+  }
 }
